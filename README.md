@@ -1,6 +1,6 @@
 # angr-dev
 
-This is a repository to make installing a development version of angr easier.
+This is a repository to make installing a development version of angr easier. (AJK Forked this).
 
 ## Install
 
